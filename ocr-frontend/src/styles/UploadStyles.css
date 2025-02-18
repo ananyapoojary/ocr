@@ -1,0 +1,22 @@
+.upload-container {
+    margin-top: 20px;
+  }
+  
+  .upload-container h2 {
+    color: #333;
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+  }
+  
+  .upload-container button {
+    background-color: #4CAF50;
+    width: 100%;
+    padding: 12px;
+    margin-top: 10px;
+    border-radius: 5px;
+  }
+  
+  .upload-container button:hover {
+    background-color: #45a049;
+  }
+  

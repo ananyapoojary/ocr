@@ -1,0 +1,27 @@
+.camera-container {
+    margin-top: 20px;
+  }
+  
+  .camera-container h2 {
+    color: #333;
+    font-size: 1.8rem;
+  }
+  
+  .camera-container video {
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    margin-top: 15px;
+  }
+  
+  .camera-container button {
+    background-color: #4CAF50;
+    padding: 12px 20px;
+    margin-top: 15px;
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .camera-container button:hover {
+    background-color: #45a049;
+  }
+  
